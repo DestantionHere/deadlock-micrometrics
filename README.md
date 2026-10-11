@@ -1,2 +1,2 @@
 # deadlock-micrometrics
-Independent research project (an excuse to play around with R, Codex, LDV' and, unfortunately, Parquet)
+Independent research project (an excuse to play around with R, Codex, LDV's and, unfortunately, Parquet)
